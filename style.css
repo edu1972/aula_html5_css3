@@ -9,11 +9,12 @@ li {
     padding: 10px;    /*tamanho da fonte*/      
 }
 
-a {
+li a {
+    
     font-family: monospace; /*fonte menu*/
     font-size: 15px;
-    color: black;
-
+    color: whitesmoke;
+    text-decoration: none; /*retira sublinhado do texto*/
 }
 
 header {

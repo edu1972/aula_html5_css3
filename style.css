@@ -1,0 +1,51 @@
+body {
+    background: #85c1e9;
+    margin-left: 150px;
+    margin-right: 50px;
+}
+
+li {
+    display: inline;  /*menu suspenso*/
+    padding: 10px;    /*tamanho da fonte*/      
+}
+
+a {
+    font-family: monospace; /*fonte menu*/
+    font-size: 15px;
+    color: black;
+
+}
+
+header {
+    margin-top: 70px;
+}
+
+h1 {
+    color: whitesmoke;
+    font-family: monospace;
+}
+
+h2 {
+    color: whitesmoke;
+    font-family: monospace;
+}
+
+p {
+    color: whitesmoke;
+    font-family: Segoe UI;
+    font-size: 18px;
+}
+
+footer {
+    margin-bottom: 30px;
+}
+
+.img_padrao {
+    margin-bottom: 20px;
+    margin-right: 20px;
+    width: 300px;
+}
+
+.logo {
+    width: 40px;
+}
